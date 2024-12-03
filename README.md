@@ -69,11 +69,13 @@ Add a Role:
 Click "Add Role."
 Enter role name and assign permissions.
 Save to store the role.
+
 Edit a Role:
 
 Click "Edit" next to a role in the table.
 Modify the name or permissions.
 Save changes.
+
 Delete a Role:
 
 Click "Delete" next to a role in the table.
